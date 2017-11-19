@@ -1,0 +1,63 @@
+{
+  "cities": [
+    {
+      "id": "1",
+      "name": "Mumbai",
+      "state": "Maharashtra",
+      "image":"http://s3.india.com/travel/wp-content/uploads/2014/09/Mumbai-Gateway-625x470.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Delhi",
+      "state": "Delhi",
+      "image":"https://1913578542.rsc.cdn77.org/pictures/travel_guide/new-delhi-796.jpeg"
+    },
+    {
+      "id": "3",
+      "name":"New York",
+      "state": "Karnataka",
+      "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Above_Gotham.jpg/240px-Above_Gotham.jpg"
+    },
+    {
+      "id": "4",
+      "name":"Los Angeles",
+      "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/LA_Skyline_Mountains2.jpg/240px-LA_Skyline_Mountains2.jpg"
+    },
+    {
+      "id": "5",
+      "name":"San Jose",
+      "state": "Telangana",
+      "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Downtown_San_Jose_skyline.PNG/240px-Downtown_San_Jose_skyline.PNG"
+    },
+    {
+      "id": "6",
+      "name":"San Francisco",
+      "state": "Tamil Nadu",
+      "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/San_Francisco_skyline_from_Coit_Tower.jpg/240px-San_Francisco_skyline_from_Coit_Tower.jpg"
+    },
+    {
+      "id": "7",
+      "name":"London",
+      "state": "West Bengal",
+      "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Downtown_El_Paso_at_sunset.jpeg/240px-Downtown_El_Paso_at_sunset.jpeg"
+    },
+    {
+      "id": "8",
+      "name":"Hyderabad",
+      "state": "Maharashtra",
+      "image":"http://im.proptiger.com/6/12/92/hyderabad-heroshot-image-659705.jpeg"
+    },
+    {
+      "id": "9",
+      "name": "Jaipur",
+      "state": "Rajasthan",
+      "image":"http://s3.india.com/travel/wp-content/uploads/2014/09/jaipur-lead.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Surat",
+      "state": "Gujarat",
+      "image":"http://lumbinitravels.com/images/gujrat-banner-lumbini-travels-1.jpg"
+    }
+  ]
+}
